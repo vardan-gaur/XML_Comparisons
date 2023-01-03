@@ -1,5 +1,4 @@
-<GetAvailabilityByTripResponse xmlns="http://schemas.navitaire.com/WebServices/ServiceContracts/BookingService">
-            <GetTripAvailabilityResponse xmlns="http://schemas.navitaire.com/WebServices/DataContracts/Booking" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<GetTripAvailabilityResponse xmlns="http://schemas.navitaire.com/WebServices/DataContracts/Booking" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
                 <OtherServiceInfoList xmlns:a="http://schemas.navitaire.com/WebServices/DataContracts/Common"></OtherServiceInfoList>
                 <Schedules>
                     <ArrayOfJourneyDateMarket>
@@ -492,4 +491,4 @@
                 </Schedules>
                 <ServiceBundleOfferList></ServiceBundleOfferList>
             </GetTripAvailabilityResponse>
-        </GetAvailabilityByTripResponse>
+
